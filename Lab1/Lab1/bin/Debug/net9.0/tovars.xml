@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfTovar xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Tovar>
+    <Shops>
+      <Shop>
+        <ShopName>Brain</ShopName>
+        <Price>21200</Price>
+      </Shop>
+    </Shops>
+    <TovarName>Tablet</TovarName>
+  </Tovar>
+  <Tovar>
+    <Shops>
+      <Shop>
+        <ShopName>Brain</ShopName>
+        <Price>15000</Price>
+      </Shop>
+    </Shops>
+    <TovarName>Laptop</TovarName>
+  </Tovar>
+  <Tovar>
+    <Shops>
+      <Shop>
+        <ShopName>ItBox</ShopName>
+        <Price>15000</Price>
+      </Shop>
+    </Shops>
+    <TovarName>Tablet</TovarName>
+  </Tovar>
+</ArrayOfTovar>r>Tovar>Tovar>
