@@ -1,0 +1,15 @@
+D:\CMOO-2KYRS\CMOO-2KYRS\LAB2\LAB2\bin\Debug\net9.0\LAB2.exe
+D:\CMOO-2KYRS\CMOO-2KYRS\LAB2\LAB2\bin\Debug\net9.0\LAB2.deps.json
+D:\CMOO-2KYRS\CMOO-2KYRS\LAB2\LAB2\bin\Debug\net9.0\LAB2.runtimeconfig.json
+D:\CMOO-2KYRS\CMOO-2KYRS\LAB2\LAB2\bin\Debug\net9.0\LAB2.dll
+D:\CMOO-2KYRS\CMOO-2KYRS\LAB2\LAB2\bin\Debug\net9.0\LAB2.pdb
+D:\CMOO-2KYRS\CMOO-2KYRS\LAB2\LAB2\obj\Debug\net9.0\LAB2.GeneratedMSBuildEditorConfig.editorconfig
+D:\CMOO-2KYRS\CMOO-2KYRS\LAB2\LAB2\obj\Debug\net9.0\LAB2.AssemblyInfoInputs.cache
+D:\CMOO-2KYRS\CMOO-2KYRS\LAB2\LAB2\obj\Debug\net9.0\LAB2.AssemblyInfo.cs
+D:\CMOO-2KYRS\CMOO-2KYRS\LAB2\LAB2\obj\Debug\net9.0\LAB2.csproj.CoreCompileInputs.cache
+D:\CMOO-2KYRS\CMOO-2KYRS\LAB2\LAB2\obj\Debug\net9.0\LAB2.sourcelink.json
+D:\CMOO-2KYRS\CMOO-2KYRS\LAB2\LAB2\obj\Debug\net9.0\LAB2.dll
+D:\CMOO-2KYRS\CMOO-2KYRS\LAB2\LAB2\obj\Debug\net9.0\refint\LAB2.dll
+D:\CMOO-2KYRS\CMOO-2KYRS\LAB2\LAB2\obj\Debug\net9.0\LAB2.pdb
+D:\CMOO-2KYRS\CMOO-2KYRS\LAB2\LAB2\obj\Debug\net9.0\LAB2.genruntimeconfig.cache
+D:\CMOO-2KYRS\CMOO-2KYRS\LAB2\LAB2\obj\Debug\net9.0\ref\LAB2.dll
