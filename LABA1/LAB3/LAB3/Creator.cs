@@ -5,7 +5,7 @@ static class Creator
     private static Random random = new Random();
     private static string[] clientNames = {"Alex","Vadim","Sonya","Max"};
     private static int[] clientPriorityes = {1,2,3,4,5};
-    private static DateTime[] timestamps = {DateTime.Now, DateTime.UtcNow, DateTime.MaxValue};
+    private static DateTime[] timestamps = {DateTime.Now};
 
     public static string RandomClientName()
     {
