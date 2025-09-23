@@ -1,0 +1,15 @@
+D:\CMOO-2KYRS\CMOO-2KYRS\LABA1\LAB4\Laba4\Laba4\bin\Debug\net9.0\Laba4.exe
+D:\CMOO-2KYRS\CMOO-2KYRS\LABA1\LAB4\Laba4\Laba4\bin\Debug\net9.0\Laba4.deps.json
+D:\CMOO-2KYRS\CMOO-2KYRS\LABA1\LAB4\Laba4\Laba4\bin\Debug\net9.0\Laba4.runtimeconfig.json
+D:\CMOO-2KYRS\CMOO-2KYRS\LABA1\LAB4\Laba4\Laba4\bin\Debug\net9.0\Laba4.dll
+D:\CMOO-2KYRS\CMOO-2KYRS\LABA1\LAB4\Laba4\Laba4\bin\Debug\net9.0\Laba4.pdb
+D:\CMOO-2KYRS\CMOO-2KYRS\LABA1\LAB4\Laba4\Laba4\obj\Debug\net9.0\Laba4.GeneratedMSBuildEditorConfig.editorconfig
+D:\CMOO-2KYRS\CMOO-2KYRS\LABA1\LAB4\Laba4\Laba4\obj\Debug\net9.0\Laba4.AssemblyInfoInputs.cache
+D:\CMOO-2KYRS\CMOO-2KYRS\LABA1\LAB4\Laba4\Laba4\obj\Debug\net9.0\Laba4.AssemblyInfo.cs
+D:\CMOO-2KYRS\CMOO-2KYRS\LABA1\LAB4\Laba4\Laba4\obj\Debug\net9.0\Laba4.csproj.CoreCompileInputs.cache
+D:\CMOO-2KYRS\CMOO-2KYRS\LABA1\LAB4\Laba4\Laba4\obj\Debug\net9.0\Laba4.sourcelink.json
+D:\CMOO-2KYRS\CMOO-2KYRS\LABA1\LAB4\Laba4\Laba4\obj\Debug\net9.0\Laba4.dll
+D:\CMOO-2KYRS\CMOO-2KYRS\LABA1\LAB4\Laba4\Laba4\obj\Debug\net9.0\refint\Laba4.dll
+D:\CMOO-2KYRS\CMOO-2KYRS\LABA1\LAB4\Laba4\Laba4\obj\Debug\net9.0\Laba4.pdb
+D:\CMOO-2KYRS\CMOO-2KYRS\LABA1\LAB4\Laba4\Laba4\obj\Debug\net9.0\Laba4.genruntimeconfig.cache
+D:\CMOO-2KYRS\CMOO-2KYRS\LABA1\LAB4\Laba4\Laba4\obj\Debug\net9.0\ref\Laba4.dll

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\CMOO-2KYRS\\CMOO-2KYRS\\Lab1\\Lab1\\Lab1.csproj",
+      "projectUniqueName": "D:\\CMOO-2KYRS\\CMOO-2KYRS\\LABA1\\Lab1\\Lab1\\Lab1.csproj",
       "projectName": "Lab1",
-      "projectPath": "D:\\CMOO-2KYRS\\CMOO-2KYRS\\Lab1\\Lab1\\Lab1.csproj",
+      "projectPath": "D:\\CMOO-2KYRS\\CMOO-2KYRS\\LABA1\\Lab1\\Lab1\\Lab1.csproj",
       "packagesPath": "C:\\Users\\Кирило\\.nuget\\packages\\",
-      "outputPath": "D:\\CMOO-2KYRS\\CMOO-2KYRS\\Lab1\\Lab1\\obj\\",
+      "outputPath": "D:\\CMOO-2KYRS\\CMOO-2KYRS\\LABA1\\Lab1\\Lab1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Кирило\\AppData\\Roaming\\NuGet\\NuGet.Config"
