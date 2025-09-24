@@ -1,5 +1,5 @@
 ﻿ using Laba4;
- void HandleExistingDictionary()
+ void WorkWithExistingDictionary()
         {
             string dictionaryName;
             Dictionary<string, List<string>> newDictionary;
@@ -86,7 +86,7 @@
                         break;
 
                     case 2:
-                        HandleExistingDictionary();
+                        WorkWithExistingDictionary();
                         break;
 
                     case 0:

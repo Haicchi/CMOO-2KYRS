@@ -69,22 +69,22 @@ do
         }
     }
 
-    var sorted = analyses.OrderByDescending(kv => kv.Value);
-        foreach (var item in analyses)
-        {
-            Console.WriteLine($"{item.Key} : {item.Value}");
-        }
+    
+    foreach (var item in analyses)
+    {
+        Console.WriteLine($"{item.Key} : {item.Value}");
+    }
 
-        Console.WriteLine("Do you wish to record result to file(1-yes,2-no)");
-        int result = int.Parse(Console.ReadLine());
-        if (result == 1)
+    Console.WriteLine("Do you wish to record result to file(1-yes,2-no)");
+    int result = int.Parse(Console.ReadLine());
+    if (result == 1)
+    {
+        using (FileStream ffs = new FileStream("textsaved.json", FileMode.OpenOrCreate))
         {
-            using (FileStream ffs = new FileStream("textsaved.json", FileMode.OpenOrCreate))
-            {
-                JsonSerializer.SerializeAsync(ffs, analyses);
-                Console.WriteLine("Soxraneno");
-            }
+            JsonSerializer.SerializeAsync(ffs, analyses);
+            Console.WriteLine("Soxraneno");
         }
+    }
 
 
     

@@ -31,13 +31,24 @@ else
     Console.WriteLine("thanks for using this program");
     return;
 }
+List<string> jsonSave = new List<string>();
 while (ochered.TryDequeue(out Client client, out int clientPriority))
 {
     string linetosave = client.ClientName +" "+client.Timestamp+" "+clientPriority+" ";
     Console.WriteLine($"Client: {client.ClientName +" "+ client.Timestamp}, Priority: {clientPriority}");
+    jsonSave.Add(linetosave);
     
-    File.AppendAllText(filepath, linetosave);
     clients.Add(client);
 }
 clients.ForEach(client => Console.WriteLine(client.ToString()));
+Console.WriteLine("Do you want to save this words into the file? (1-yes)");
+int k = int.Parse(Console.ReadLine());
+if (k == 1)
+{
+    using (FileStream ffs = new FileStream("Data.json", FileMode.OpenOrCreate))
+    {
+        JsonSerializer.SerializeAsync(ffs, jsonSave);
+        Console.WriteLine("Soxraneno");
+    }
+}
 Console.WriteLine("Save complete");

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\CMOO-2KYRS\\CMOO-2KYRS\\LAB2\\LAB2\\LAB2.csproj": {}
+    "D:\\CMOO-2KYRS\\CMOO-2KYRS\\LABA1\\LAB2\\LAB2\\LAB2.csproj": {}
   },
   "projects": {
-    "D:\\CMOO-2KYRS\\CMOO-2KYRS\\LAB2\\LAB2\\LAB2.csproj": {
+    "D:\\CMOO-2KYRS\\CMOO-2KYRS\\LABA1\\LAB2\\LAB2\\LAB2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\CMOO-2KYRS\\CMOO-2KYRS\\LAB2\\LAB2\\LAB2.csproj",
+        "projectUniqueName": "D:\\CMOO-2KYRS\\CMOO-2KYRS\\LABA1\\LAB2\\LAB2\\LAB2.csproj",
         "projectName": "LAB2",
-        "projectPath": "D:\\CMOO-2KYRS\\CMOO-2KYRS\\LAB2\\LAB2\\LAB2.csproj",
+        "projectPath": "D:\\CMOO-2KYRS\\CMOO-2KYRS\\LABA1\\LAB2\\LAB2\\LAB2.csproj",
         "packagesPath": "C:\\Users\\Кирило\\.nuget\\packages\\",
-        "outputPath": "D:\\CMOO-2KYRS\\CMOO-2KYRS\\LAB2\\LAB2\\obj\\",
+        "outputPath": "D:\\CMOO-2KYRS\\CMOO-2KYRS\\LABA1\\LAB2\\LAB2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Кирило\\AppData\\Roaming\\NuGet\\NuGet.Config"
