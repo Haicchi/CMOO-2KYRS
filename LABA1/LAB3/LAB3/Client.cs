@@ -6,10 +6,11 @@ public class Client
     private int clientPriority;
     private DateTime timestamp;
 
-    public Client(string clientName, int clientPriority)
+    public Client(string clientName, int clientPriority,DateTime timestamp)
     {
         this.clientName = clientName;
         this.clientPriority = clientPriority;
+        this.timestamp = timestamp;
         
     }
 
@@ -17,6 +18,7 @@ public class Client
     {
         clientName = "";
         clientPriority = 0;
+        timestamp = DateTime.Now;
     }
 
     public string ClientName
