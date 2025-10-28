@@ -33,6 +33,11 @@ namespace Laba
            double pounds = 0;
             if (double.TryParse(input.Replace(',','.'), CultureInfo.InvariantCulture, out pounds))
             {
+                if (pounds < 0)
+                {
+                    MessageBox.Show("wrong input");
+                    return;
+                }
                 double kilograms = pounds / perevod;
                 Label1.Content = kilograms.ToString();
             }
