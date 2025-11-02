@@ -1,0 +1,3 @@
+﻿1, Doe J., Bachelor's, Engineer, 01.01.1990
+2, Smith A., Master's, Scientist, 15.05.1985
+3, Brown B., PhD, Researcher, 30.09.1978

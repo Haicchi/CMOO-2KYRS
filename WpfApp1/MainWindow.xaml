@@ -1,0 +1,25 @@
+﻿<Window x:Class="WpfApp1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp1"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="1*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="1*"/>
+            <ColumnDefinition Width="1*"/>
+            <ColumnDefinition Width="1*"/>
+        </Grid.ColumnDefinitions>
+        <Button Grid.Row="0" Grid.Column="0" Content="Вивести прізвища та ініціали співробітників, вік яких більше ніж 35 років." Name="Task1" Click="WorkerTask"/>
+        <Button Grid.Row="1" Grid.Column="0" Content="Вивести ідентифікаційний код та фах співробітника з найбільшою зарплатою за друге півріччя." Name="Task2" Click="WorkerTask"/>
+        <Button Grid.Row="0" Grid.Column="1" Content="Вивести прізвища, ініціали та вид освіти тих співробітників, зарплата яких за рік нижче середньої за рік." Name="Task3" Click="WorkerTask"/>
+        <Button Grid.Row="1" Grid.Column="1" Content="Вивести прізвища усіх співробітників з вищою освітою та зарплатою не менше значення введеного користувачем" Name="Task4" Click="WorkerTask" />
+        <TextBox Name="TextForTask4" BorderThickness="1" Grid.Row="0" Grid.RowSpan="2" Grid.Column="2" Text="Введіть значення зарплати:" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+    </Grid>
+</Window>
