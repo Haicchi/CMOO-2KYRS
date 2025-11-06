@@ -1,0 +1,46 @@
+﻿<Window x:Class="WpfApp1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp1"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="550" Width="330">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="6*"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+        <StackPanel Grid.Row="0" Background="LightGoldenrodYellow" Orientation="Vertical" VerticalAlignment="Center">
+            <TextBlock Grid.Row="0" Text="Registration Form" FontWeight="Bold" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="16" Background="PapayaWhip"/>
+        </StackPanel>
+        <StackPanel Grid.Row="1" Background="AliceBlue" Orientation="Vertical">
+            <Label Content="Username"/>
+            <TextBox Text="Type here" GotFocus="FocusClear" LostFocus="FocusBack" Name="UsernameBox"/>
+            <Label Content="Email"/>
+            <TextBox Text="Type here" GotFocus="FocusClear" LostFocus="FocusBack" Name="EmailBox" />
+            <Label Content="Password"/>
+            <TextBox Text="Type here" GotFocus="FocusClear" LostFocus="FocusBack" Name="PasswordBox" />
+            <Label Content="Password Confimationx"/>
+            <TextBox Text="Type here" GotFocus="FocusClear" LostFocus="FocusBack" Name="PasswordConfirm" />
+            <Button HorizontalAlignment="Center" Content="Register" Margin="0,20,0,0" Height="50" Width="100" Background="Ivory" FontSize="16" Click="RegisterUser" />
+            <Label Content="Already have an account?" HorizontalAlignment="Center" Margin="0,5,0,0"/>
+            <Button HorizontalAlignment="Center" Content="Login" Background="Ivory" Margin="0,5,0,0" Click="LoginForm"/>
+        </StackPanel>
+        <StackPanel Grid.Row="2" Orientation="Vertical"  Background="AliceBlue">
+            <Label Content="Also you can register with social media" HorizontalAlignment="Center" FontSize="14"  />
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Margin="0,5,0,0">
+                <Button Name="Facebook" Width="100" Margin="5,0" Background="AliceBlue" BorderThickness="0" Click="SocialMediaClick" >
+                    <Image Source="/Images/facebookp.png"/>
+                </Button>
+                <Button  Name="Google" Width="100" Margin="5,0" Background="AliceBlue" BorderThickness="0" Click="SocialMediaClick">
+                    <Image Source="/Images/googlep.png"/>
+                </Button>
+                <Button Width="100" Name="Twitter" Margin="5,0" Background="AliceBlue" BorderThickness="0" Click="SocialMediaClick">
+                    <Image Source="/Images/twitterp.png"/>
+                </Button>
+            </StackPanel>
+        </StackPanel>
+    </Grid>
+</Window>

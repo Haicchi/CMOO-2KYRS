@@ -78,7 +78,7 @@ namespace LABA
             if (!double.TryParse(CostOfFuel.Text.Replace(',', '.'), System.Globalization.NumberStyles.Any, System.Globalization.CultureInfo.InvariantCulture, out costPerLiter)) { costPerLiter = 0; }
             if (FuelByCount.IsEnabled)
             {
-                if (double.TryParse(FuelByCount.Text, out double liters))
+                if (double.TryParse(FuelByCount.Text, out double liters) && liters>0)
                 {
                     double totalCost = liters * costPerLiter;
                     FuelResult.Text = totalCost.ToString("F2");
@@ -87,10 +87,11 @@ namespace LABA
                 {
                     FuelResult.Text = "0.00";
                 }
+                
             }
             else if (FuelBySum.IsEnabled)
             {
-                if (double.TryParse(FuelBySum.Text, out double amount))
+                if (double.TryParse(FuelBySum.Text, out double amount) && amount>0)
                 {
                     double liters = amount / costPerLiter;
                     FuelResult.Text = liters.ToString("F2");
@@ -148,7 +149,7 @@ namespace LABA
             if (sender is TextBox tb)
             {
                 
-                if (!double.TryParse(tb.Text.Replace(',', '.'), System.Globalization.NumberStyles.Any, System.Globalization.CultureInfo.InvariantCulture, out double count))
+                if (!double.TryParse(tb.Text.Replace(',', '.'), System.Globalization.NumberStyles.Any, System.Globalization.CultureInfo.InvariantCulture, out double count) || count<0)
                 {
                     MessageBox.Show($"Введіть коректне число для {tb.Name.Replace("Count", "")}.");
                     tb.Text = "0";
@@ -158,7 +159,7 @@ namespace LABA
             if (HotDogCheck.IsChecked == true)
             {
                 double count = 0;
-                if (double.TryParse(HotDogCount.Text.Replace(',', '.'), System.Globalization.NumberStyles.Any, System.Globalization.CultureInfo.InvariantCulture, out count))
+                if (double.TryParse(HotDogCount.Text.Replace(',', '.'), System.Globalization.NumberStyles.Any, System.Globalization.CultureInfo.InvariantCulture, out count) || count < 0)
                 {
                     cafeTotal += count * 4.20;
                 }
@@ -167,7 +168,7 @@ namespace LABA
             if (HamburgerCheck.IsChecked == true)
             {
                 double count = 0;
-                if (double.TryParse(HamburgerCount.Text.Replace(',', '.'), System.Globalization.NumberStyles.Any, System.Globalization.CultureInfo.InvariantCulture, out count))
+                if (double.TryParse(HamburgerCount.Text.Replace(',', '.'), System.Globalization.NumberStyles.Any, System.Globalization.CultureInfo.InvariantCulture, out count) || count < 0)
                 {
                     cafeTotal += count * 10.00;
                 }
@@ -176,7 +177,7 @@ namespace LABA
             if (FrenchFriesCheck.IsChecked == true)
             {
                 double count = 0;
-                if (double.TryParse(FrenchFriesCount.Text.Replace(',', '.'), System.Globalization.NumberStyles.Any, System.Globalization.CultureInfo.InvariantCulture, out count))
+                if (double.TryParse(FrenchFriesCount.Text.Replace(',', '.'), System.Globalization.NumberStyles.Any, System.Globalization.CultureInfo.InvariantCulture, out count) || count < 0)
                 {
                     cafeTotal += count * 4.20;
                 }
@@ -185,7 +186,7 @@ namespace LABA
             if (CokeCheck.IsChecked == true)
             {
                 double count = 0;
-                if (double.TryParse(CokeCount.Text.Replace(',', '.'), System.Globalization.NumberStyles.Any, System.Globalization.CultureInfo.InvariantCulture, out count))
+                if (double.TryParse(CokeCount.Text.Replace(',', '.'), System.Globalization.NumberStyles.Any, System.Globalization.CultureInfo.InvariantCulture, out count) || count < 0)
                 {
                     cafeTotal += count * 4.20;
                 }

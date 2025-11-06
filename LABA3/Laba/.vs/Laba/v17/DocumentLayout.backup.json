@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "D:\\CMOO-2KYRS\\CMOO-2KYRS\\LABA3\\Laba\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{2CA389CF-FFE6-4A60-A1C7-7BB645AE3A31}|Laba\\Laba.csproj|d:\\cmoo-2kyrs\\cmoo-2kyrs\\laba3\\laba\\laba\\windowtask1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2CA389CF-FFE6-4A60-A1C7-7BB645AE3A31}|Laba\\Laba.csproj|solutionrelative:laba\\windowtask1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CA389CF-FFE6-4A60-A1C7-7BB645AE3A31}|Laba\\Laba.csproj|d:\\cmoo-2kyrs\\cmoo-2kyrs\\laba3\\laba\\laba\\windowtask1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CA389CF-FFE6-4A60-A1C7-7BB645AE3A31}|Laba\\Laba.csproj|solutionrelative:laba\\windowtask1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CA389CF-FFE6-4A60-A1C7-7BB645AE3A31}|Laba\\Laba.csproj|d:\\cmoo-2kyrs\\cmoo-2kyrs\\laba3\\laba\\laba\\windowtask2.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2CA389CF-FFE6-4A60-A1C7-7BB645AE3A31}|Laba\\Laba.csproj|solutionrelative:laba\\windowtask2.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2CA389CF-FFE6-4A60-A1C7-7BB645AE3A31}|Laba\\Laba.csproj|d:\\cmoo-2kyrs\\cmoo-2kyrs\\laba3\\laba\\laba\\windowtask5.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2CA389CF-FFE6-4A60-A1C7-7BB645AE3A31}|Laba\\Laba.csproj|solutionrelative:laba\\windowtask5.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -39,19 +51,56 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "WindowTask1.xaml",
+              "DocumentMoniker": "D:\\CMOO-2KYRS\\CMOO-2KYRS\\LABA3\\Laba\\Laba\\WindowTask1.xaml",
+              "RelativeDocumentMoniker": "Laba\\WindowTask1.xaml",
+              "ToolTip": "D:\\CMOO-2KYRS\\CMOO-2KYRS\\LABA3\\Laba\\Laba\\WindowTask1.xaml",
+              "RelativeToolTip": "Laba\\WindowTask1.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-09T11:10:18.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WindowTask1.xaml.cs",
+              "DocumentMoniker": "D:\\CMOO-2KYRS\\CMOO-2KYRS\\LABA3\\Laba\\Laba\\WindowTask1.xaml.cs",
+              "RelativeDocumentMoniker": "Laba\\WindowTask1.xaml.cs",
+              "ToolTip": "D:\\CMOO-2KYRS\\CMOO-2KYRS\\LABA3\\Laba\\Laba\\WindowTask1.xaml.cs",
+              "RelativeToolTip": "Laba\\WindowTask1.xaml.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T11:10:13.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WindowTask2.xaml",
+              "DocumentMoniker": "D:\\CMOO-2KYRS\\CMOO-2KYRS\\LABA3\\Laba\\Laba\\WindowTask2.xaml",
+              "RelativeDocumentMoniker": "Laba\\WindowTask2.xaml",
+              "ToolTip": "D:\\CMOO-2KYRS\\CMOO-2KYRS\\LABA3\\Laba\\Laba\\WindowTask2.xaml",
+              "RelativeToolTip": "Laba\\WindowTask2.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-09T11:10:12.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "WindowTask5.xaml.cs",
               "DocumentMoniker": "D:\\CMOO-2KYRS\\CMOO-2KYRS\\LABA3\\Laba\\Laba\\WindowTask5.xaml.cs",
               "RelativeDocumentMoniker": "Laba\\WindowTask5.xaml.cs",
-              "ToolTip": "D:\\CMOO-2KYRS\\CMOO-2KYRS\\LABA3\\Laba\\Laba\\WindowTask5.xaml.cs*",
-              "RelativeToolTip": "Laba\\WindowTask5.xaml.cs*",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAACcAAAARAAAAAAAAAA==",
+              "ToolTip": "D:\\CMOO-2KYRS\\CMOO-2KYRS\\LABA3\\Laba\\Laba\\WindowTask5.xaml.cs",
+              "RelativeToolTip": "Laba\\WindowTask5.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-09T11:05:32.274Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "WindowTask6.xaml.cs",
               "DocumentMoniker": "D:\\CMOO-2KYRS\\CMOO-2KYRS\\LABA3\\Laba\\Laba\\WindowTask6.xaml.cs",
               "RelativeDocumentMoniker": "Laba\\WindowTask6.xaml.cs",
@@ -64,7 +113,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "WindowTask4.xaml.cs",
               "DocumentMoniker": "D:\\CMOO-2KYRS\\CMOO-2KYRS\\LABA3\\Laba\\Laba\\WindowTask4.xaml.cs",
               "RelativeDocumentMoniker": "Laba\\WindowTask4.xaml.cs",
@@ -77,7 +126,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "WindowTask6.xaml",
               "DocumentMoniker": "D:\\CMOO-2KYRS\\CMOO-2KYRS\\LABA3\\Laba\\Laba\\WindowTask6.xaml",
               "RelativeDocumentMoniker": "Laba\\WindowTask6.xaml",
@@ -89,7 +138,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "D:\\CMOO-2KYRS\\CMOO-2KYRS\\LABA3\\Laba\\Laba\\MainWindow.xaml",
               "RelativeDocumentMoniker": "Laba\\MainWindow.xaml",
@@ -101,7 +150,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "D:\\CMOO-2KYRS\\CMOO-2KYRS\\LABA3\\Laba\\Laba\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "Laba\\MainWindow.xaml.cs",

@@ -1,0 +1,145 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CMOO-2KYRS\\CMOO-2KYRS\\LABA5\\WpfApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D82B4AD1-041A-47FC-8C68-A1A4446F8347}|WpfApp1.csproj|d:\\cmoo-2kyrs\\cmoo-2kyrs\\laba5\\wpfapp1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D82B4AD1-041A-47FC-8C68-A1A4446F8347}|WpfApp1.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D82B4AD1-041A-47FC-8C68-A1A4446F8347}|WpfApp1.csproj|d:\\cmoo-2kyrs\\cmoo-2kyrs\\laba5\\wpfapp1\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D82B4AD1-041A-47FC-8C68-A1A4446F8347}|WpfApp1.csproj|solutionrelative:loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D82B4AD1-041A-47FC-8C68-A1A4446F8347}|WpfApp1.csproj|d:\\cmoo-2kyrs\\cmoo-2kyrs\\laba5\\wpfapp1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D82B4AD1-041A-47FC-8C68-A1A4446F8347}|WpfApp1.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D82B4AD1-041A-47FC-8C68-A1A4446F8347}|WpfApp1.csproj|d:\\cmoo-2kyrs\\cmoo-2kyrs\\laba5\\wpfapp1\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D82B4AD1-041A-47FC-8C68-A1A4446F8347}|WpfApp1.csproj|solutionrelative:loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D82B4AD1-041A-47FC-8C68-A1A4446F8347}|WpfApp1.csproj|d:\\cmoo-2kyrs\\cmoo-2kyrs\\laba5\\wpfapp1\\facebookloginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D82B4AD1-041A-47FC-8C68-A1A4446F8347}|WpfApp1.csproj|solutionrelative:facebookloginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D82B4AD1-041A-47FC-8C68-A1A4446F8347}|WpfApp1.csproj|d:\\cmoo-2kyrs\\cmoo-2kyrs\\laba5\\wpfapp1\\twitterloginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D82B4AD1-041A-47FC-8C68-A1A4446F8347}|WpfApp1.csproj|solutionrelative:twitterloginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D82B4AD1-041A-47FC-8C68-A1A4446F8347}|WpfApp1.csproj|d:\\cmoo-2kyrs\\cmoo-2kyrs\\laba5\\wpfapp1\\googleloginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D82B4AD1-041A-47FC-8C68-A1A4446F8347}|WpfApp1.csproj|solutionrelative:googleloginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D82B4AD1-041A-47FC-8C68-A1A4446F8347}|WpfApp1.csproj|d:\\cmoo-2kyrs\\cmoo-2kyrs\\laba5\\wpfapp1\\usermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D82B4AD1-041A-47FC-8C68-A1A4446F8347}|WpfApp1.csproj|solutionrelative:usermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginWindow.xaml.cs",
+              "DocumentMoniker": "D:\\CMOO-2KYRS\\CMOO-2KYRS\\LABA5\\WpfApp1\\LoginWindow.xaml.cs",
+              "RelativeDocumentMoniker": "LoginWindow.xaml.cs",
+              "ToolTip": "D:\\CMOO-2KYRS\\CMOO-2KYRS\\LABA5\\WpfApp1\\LoginWindow.xaml.cs",
+              "RelativeToolTip": "LoginWindow.xaml.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAswFQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T14:52:20.634Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginWindow.xaml",
+              "DocumentMoniker": "D:\\CMOO-2KYRS\\CMOO-2KYRS\\LABA5\\WpfApp1\\LoginWindow.xaml",
+              "RelativeDocumentMoniker": "LoginWindow.xaml",
+              "ToolTip": "D:\\CMOO-2KYRS\\CMOO-2KYRS\\LABA5\\WpfApp1\\LoginWindow.xaml",
+              "RelativeToolTip": "LoginWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-03T14:46:44.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\CMOO-2KYRS\\CMOO-2KYRS\\LABA5\\WpfApp1\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "D:\\CMOO-2KYRS\\CMOO-2KYRS\\LABA5\\WpfApp1\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAwwF0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T10:56:52.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\CMOO-2KYRS\\CMOO-2KYRS\\LABA5\\WpfApp1\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "D:\\CMOO-2KYRS\\CMOO-2KYRS\\LABA5\\WpfApp1\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-04T10:59:51.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FacebookLoginPage.xaml",
+              "DocumentMoniker": "D:\\CMOO-2KYRS\\CMOO-2KYRS\\LABA5\\WpfApp1\\FacebookLoginPage.xaml",
+              "RelativeDocumentMoniker": "FacebookLoginPage.xaml",
+              "ToolTip": "D:\\CMOO-2KYRS\\CMOO-2KYRS\\LABA5\\WpfApp1\\FacebookLoginPage.xaml",
+              "RelativeToolTip": "FacebookLoginPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-04T10:40:44.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TwitterLoginPage.xaml",
+              "DocumentMoniker": "D:\\CMOO-2KYRS\\CMOO-2KYRS\\LABA5\\WpfApp1\\TwitterLoginPage.xaml",
+              "RelativeDocumentMoniker": "TwitterLoginPage.xaml",
+              "ToolTip": "D:\\CMOO-2KYRS\\CMOO-2KYRS\\LABA5\\WpfApp1\\TwitterLoginPage.xaml",
+              "RelativeToolTip": "TwitterLoginPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-04T10:41:36.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GoogleLoginPage.xaml",
+              "DocumentMoniker": "D:\\CMOO-2KYRS\\CMOO-2KYRS\\LABA5\\WpfApp1\\GoogleLoginPage.xaml",
+              "RelativeDocumentMoniker": "GoogleLoginPage.xaml",
+              "ToolTip": "D:\\CMOO-2KYRS\\CMOO-2KYRS\\LABA5\\WpfApp1\\GoogleLoginPage.xaml",
+              "RelativeToolTip": "GoogleLoginPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-04T10:41:18.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserManager.cs",
+              "DocumentMoniker": "D:\\CMOO-2KYRS\\CMOO-2KYRS\\LABA5\\WpfApp1\\UserManager.cs",
+              "RelativeDocumentMoniker": "UserManager.cs",
+              "ToolTip": "D:\\CMOO-2KYRS\\CMOO-2KYRS\\LABA5\\WpfApp1\\UserManager.cs",
+              "RelativeToolTip": "UserManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T16:03:02.036Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
