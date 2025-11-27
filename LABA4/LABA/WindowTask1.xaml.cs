@@ -77,10 +77,65 @@ namespace LABA
             UpdateDisplay(currentText, Label1.Content.ToString());
         }
 
+        //private void Operator_Click(object sender, RoutedEventArgs e)
+        //{
+        //    string currentOperator = ((Button)sender).Content.ToString();
+
+        //    if (currentOperator == "-" && (Label2.Content.ToString() == "" || Label2.Content.ToString() == "0"))
+        //    {
+        //        Label2.Content = "-";
+        //        return; 
+        //    }
+        //    double currentNumber;
+        //    if(currentNumber.)
+        //    if (lastOperator != null && !isNewNumber)
+        //    {
+        //        CalculateResult(currentNumber, false);
+        //    }
+        //    else if (lastOperator == null && !isNewNumber)
+        //    {
+        //        lastResult = currentNumber;
+        //    }
+
+        //    lastOperator = currentOperator;
+        //    UpdateDisplay(Label2.Content.ToString(), $"{lastResult} {lastOperator}");
+
+        //    isNewNumber = true;
+        //}
         private void Operator_Click(object sender, RoutedEventArgs e)
         {
             string currentOperator = ((Button)sender).Content.ToString();
-            double currentNumber = double.Parse(Label2.Content.ToString());
+            string labelContent = Label2.Content.ToString();
+
+            if (currentOperator == "-" && (labelContent == "" || labelContent == "0"))
+            {
+                Label2.Content = "-";
+                isNewNumber = false;
+                return;
+            }
+            if (labelContent == "-" || isNewNumber)
+            { 
+                if (lastOperator != null)
+                {
+                    
+                    lastOperator = currentOperator;
+                    UpdateDisplay(Label2.Content.ToString(), $"{lastResult} {lastOperator}");
+                    return;
+                }
+                else if (labelContent == "-")
+                {
+                
+                    lastResult = 0;
+                }
+            }
+
+
+            double currentNumber;
+
+            if (!double.TryParse(labelContent, out currentNumber))
+            {
+                return;
+            }
 
             if (lastOperator != null && !isNewNumber)
             {
@@ -93,10 +148,8 @@ namespace LABA
 
             lastOperator = currentOperator;
             UpdateDisplay(Label2.Content.ToString(), $"{lastResult} {lastOperator}");
-
             isNewNumber = true;
         }
-
         private void Equals_Click(object sender, RoutedEventArgs e)
         {
             if (lastOperator == null) return;

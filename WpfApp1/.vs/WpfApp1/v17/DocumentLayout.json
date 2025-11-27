@@ -1,21 +1,21 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\WpfApp1\\",
+  "WorkspaceRootPath": "D:\\CMOO-2KYRS\\CMOO-2KYRS\\WpfApp1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{75024EE4-0A7A-46AD-809D-D9352476E888}|WpfApp1.csproj|d:\\wpfapp1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{75024EE4-0A7A-46AD-809D-D9352476E888}|WpfApp1.csproj|d:\\cmoo-2kyrs\\cmoo-2kyrs\\wpfapp1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{75024EE4-0A7A-46AD-809D-D9352476E888}|WpfApp1.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{75024EE4-0A7A-46AD-809D-D9352476E888}|WpfApp1.csproj|d:\\wpfapp1\\salary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{75024EE4-0A7A-46AD-809D-D9352476E888}|WpfApp1.csproj|d:\\cmoo-2kyrs\\cmoo-2kyrs\\wpfapp1\\salary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{75024EE4-0A7A-46AD-809D-D9352476E888}|WpfApp1.csproj|solutionrelative:salary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{75024EE4-0A7A-46AD-809D-D9352476E888}|WpfApp1.csproj|d:\\wpfapp1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{75024EE4-0A7A-46AD-809D-D9352476E888}|WpfApp1.csproj|d:\\cmoo-2kyrs\\cmoo-2kyrs\\wpfapp1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{75024EE4-0A7A-46AD-809D-D9352476E888}|WpfApp1.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{75024EE4-0A7A-46AD-809D-D9352476E888}|WpfApp1.csproj|d:\\wpfapp1\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{75024EE4-0A7A-46AD-809D-D9352476E888}|WpfApp1.csproj|d:\\cmoo-2kyrs\\cmoo-2kyrs\\wpfapp1\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{75024EE4-0A7A-46AD-809D-D9352476E888}|WpfApp1.csproj|solutionrelative:worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -32,49 +32,46 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Salary.cs",
-              "DocumentMoniker": "D:\\WpfApp1\\Salary.cs",
+              "DocumentMoniker": "D:\\CMOO-2KYRS\\CMOO-2KYRS\\WpfApp1\\Salary.cs",
               "RelativeDocumentMoniker": "Salary.cs",
-              "ToolTip": "D:\\WpfApp1\\Salary.cs",
+              "ToolTip": "D:\\CMOO-2KYRS\\CMOO-2KYRS\\WpfApp1\\Salary.cs",
               "RelativeToolTip": "Salary.cs",
               "ViewState": "AgIAAAoAAAAAAAAAAAA9wA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-02T12:51:42.434Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-02T12:51:42.434Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Worker.cs",
-              "DocumentMoniker": "D:\\WpfApp1\\Worker.cs",
+              "DocumentMoniker": "D:\\CMOO-2KYRS\\CMOO-2KYRS\\WpfApp1\\Worker.cs",
               "RelativeDocumentMoniker": "Worker.cs",
-              "ToolTip": "D:\\WpfApp1\\Worker.cs",
+              "ToolTip": "D:\\CMOO-2KYRS\\CMOO-2KYRS\\WpfApp1\\Worker.cs",
               "RelativeToolTip": "Worker.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAA5wB0AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-02T12:43:09.551Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-02T12:43:09.551Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "MainWindow.xaml",
-              "DocumentMoniker": "D:\\WpfApp1\\MainWindow.xaml",
+              "DocumentMoniker": "D:\\CMOO-2KYRS\\CMOO-2KYRS\\WpfApp1\\MainWindow.xaml",
               "RelativeDocumentMoniker": "MainWindow.xaml",
-              "ToolTip": "D:\\WpfApp1\\MainWindow.xaml",
+              "ToolTip": "D:\\CMOO-2KYRS\\CMOO-2KYRS\\WpfApp1\\MainWindow.xaml",
               "RelativeToolTip": "MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-11-02T12:37:36.086Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-02T12:37:36.086Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "D:\\WpfApp1\\MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\CMOO-2KYRS\\CMOO-2KYRS\\WpfApp1\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "MainWindow.xaml.cs",
-              "ToolTip": "D:\\WpfApp1\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\CMOO-2KYRS\\CMOO-2KYRS\\WpfApp1\\MainWindow.xaml.cs",
               "RelativeToolTip": "MainWindow.xaml.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAAwBwAAAAuAAAAAAAAAA==",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAYwBwAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-02T12:37:32.562Z",
               "EditorCaption": ""

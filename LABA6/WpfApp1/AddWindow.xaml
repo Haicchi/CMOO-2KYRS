@@ -1,0 +1,56 @@
+﻿<Window x:Class="WpfApp1.AddWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp1"
+        mc:Ignorable="d"
+        Title="AddWindow" MaxHeight="650" MaxWidth="330" MinHeight="650" MinWidth="330">
+    <Grid Button.Click ="OnAnyControlClick">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="6*"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+        <StackPanel Grid.Row="0" Background="LightGoldenrodYellow" Orientation="Vertical" VerticalAlignment="Center">
+            <TextBlock Grid.Row="0" Text="Add Application Form" FontWeight="Bold" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="16" Background="PapayaWhip"/>
+        </StackPanel>
+        <StackPanel Grid.Row="1" Background="AliceBlue" Orientation="Vertical">
+            <Label Content="PIP"/>
+            <TextBox Text="{Binding Pip,UpdateSourceTrigger=PropertyChanged}" PreviewTextInput="Name_PreviewTextInput" Name="UsernameBox"/>
+            <Label Content="Birth Date"/>
+            <DatePicker SelectedDate="{Binding Birthdate}" Focusable="False" />
+            <Label Content="Education"/>
+            <StackPanel>
+                <RadioButton x:Name="RbSchool" GroupName="Edu" Content="Среднее" Margin="0,2"/>
+                <RadioButton x:Name="RbBachelor" GroupName="Edu" Content="Бакалавр" Margin="0,2"/>
+                <RadioButton x:Name="RbHigh" GroupName="Edu" Content="Высшее" Margin="0,2"/>
+            </StackPanel>
+            <Label Content="Languages"/>
+            <StackPanel x:Name="LanguagesPanel">
+                <CheckBox Tag="English" Content="Английский" Margin="0,2"/>
+                <CheckBox Tag="German" Content="Немецкий" Margin="0,2"/>
+                <CheckBox Tag="French" Content="Французский" Margin="0,2"/>
+                <CheckBox Tag="Chinese" Content="Китайский" Margin="0,2"/>
+            </StackPanel>
+            <Label Content="Do you have computer knowledge"/>
+            <StackPanel>
+                <RadioButton x:Name="Yes" GroupName="Comp" Content="Yes , i have" Margin="0,2"/>
+                <RadioButton x:Name="No" GroupName="Comp" Content="No i dont" Margin="0,2"/>
+              
+            </StackPanel>
+            <Label Content="Years of expirience"/>
+            <TextBox Text="{Binding YearsOfExperience , UpdateSourceTrigger=PropertyChanged}" PreviewTextInput="Number_PreviewTextInput" Name="UsernameBoxx"/>
+            <Label Content="Do you have recomendation"/>
+            <StackPanel>
+                <RadioButton x:Name="Have" GroupName="Rec" Content="Yes , i have" Margin="0,2"/>
+                <RadioButton x:Name="DontHave" GroupName="Rec" Content="No i dont" Margin="0,2"/>
+
+            </StackPanel>
+            <Button Content="Submit" Command="{Binding SubmitCommand}" CommandParameter="{Binding RelativeSource={RelativeSource AncestorType=Window}}" HorizontalAlignment="Center" Width="80" Margin="0,10"/>
+
+
+        </StackPanel>
+
+    </Grid>
+</Window>

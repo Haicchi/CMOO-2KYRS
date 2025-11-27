@@ -1,0 +1,148 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CMOO-2KYRS\\CMOO-2KYRS\\LABA6\\WpfApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{33163CC0-73C0-47EE-91F4-872B2725AE38}|WpfApp1.csproj|d:\\cmoo-2kyrs\\cmoo-2kyrs\\laba6\\wpfapp1\\workerapplicationsmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33163CC0-73C0-47EE-91F4-872B2725AE38}|WpfApp1.csproj|solutionrelative:workerapplicationsmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33163CC0-73C0-47EE-91F4-872B2725AE38}|WpfApp1.csproj|d:\\cmoo-2kyrs\\cmoo-2kyrs\\laba6\\wpfapp1\\workerapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33163CC0-73C0-47EE-91F4-872B2725AE38}|WpfApp1.csproj|solutionrelative:workerapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33163CC0-73C0-47EE-91F4-872B2725AE38}|WpfApp1.csproj|d:\\cmoo-2kyrs\\cmoo-2kyrs\\laba6\\wpfapp1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{33163CC0-73C0-47EE-91F4-872B2725AE38}|WpfApp1.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33163CC0-73C0-47EE-91F4-872B2725AE38}|WpfApp1.csproj|d:\\cmoo-2kyrs\\cmoo-2kyrs\\laba6\\wpfapp1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33163CC0-73C0-47EE-91F4-872B2725AE38}|WpfApp1.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33163CC0-73C0-47EE-91F4-872B2725AE38}|WpfApp1.csproj|d:\\cmoo-2kyrs\\cmoo-2kyrs\\laba6\\wpfapp1\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33163CC0-73C0-47EE-91F4-872B2725AE38}|WpfApp1.csproj|solutionrelative:relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33163CC0-73C0-47EE-91F4-872B2725AE38}|WpfApp1.csproj|d:\\cmoo-2kyrs\\cmoo-2kyrs\\laba6\\wpfapp1\\addwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33163CC0-73C0-47EE-91F4-872B2725AE38}|WpfApp1.csproj|solutionrelative:addwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33163CC0-73C0-47EE-91F4-872B2725AE38}|WpfApp1.csproj|d:\\cmoo-2kyrs\\cmoo-2kyrs\\laba6\\wpfapp1\\addwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{33163CC0-73C0-47EE-91F4-872B2725AE38}|WpfApp1.csproj|solutionrelative:addwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33163CC0-73C0-47EE-91F4-872B2725AE38}|WpfApp1.csproj|d:\\cmoo-2kyrs\\cmoo-2kyrs\\laba6\\wpfapp1\\fullinfo.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{33163CC0-73C0-47EE-91F4-872B2725AE38}|WpfApp1.csproj|solutionrelative:fullinfo.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FullInfo.xaml",
+              "DocumentMoniker": "D:\\CMOO-2KYRS\\CMOO-2KYRS\\LABA6\\WpfApp1\\FullInfo.xaml",
+              "RelativeDocumentMoniker": "FullInfo.xaml",
+              "ToolTip": "D:\\CMOO-2KYRS\\CMOO-2KYRS\\LABA6\\WpfApp1\\FullInfo.xaml",
+              "RelativeToolTip": "FullInfo.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-26T19:22:03.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WorkerApplicationsManager.cs",
+              "DocumentMoniker": "D:\\CMOO-2KYRS\\CMOO-2KYRS\\LABA6\\WpfApp1\\WorkerApplicationsManager.cs",
+              "RelativeDocumentMoniker": "WorkerApplicationsManager.cs",
+              "ToolTip": "D:\\CMOO-2KYRS\\CMOO-2KYRS\\LABA6\\WpfApp1\\WorkerApplicationsManager.cs",
+              "RelativeToolTip": "WorkerApplicationsManager.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAADwvzAAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T17:38:28.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RelayCommand.cs",
+              "DocumentMoniker": "D:\\CMOO-2KYRS\\CMOO-2KYRS\\LABA6\\WpfApp1\\RelayCommand.cs",
+              "RelativeDocumentMoniker": "RelayCommand.cs",
+              "ToolTip": "D:\\CMOO-2KYRS\\CMOO-2KYRS\\LABA6\\WpfApp1\\RelayCommand.cs",
+              "RelativeToolTip": "RelayCommand.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABQAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T17:11:11.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WorkerApplication.cs",
+              "DocumentMoniker": "D:\\CMOO-2KYRS\\CMOO-2KYRS\\LABA6\\WpfApp1\\WorkerApplication.cs",
+              "RelativeDocumentMoniker": "WorkerApplication.cs",
+              "ToolTip": "D:\\CMOO-2KYRS\\CMOO-2KYRS\\LABA6\\WpfApp1\\WorkerApplication.cs",
+              "RelativeToolTip": "WorkerApplication.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAYwEIAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T12:49:01.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AddWindow.xaml.cs",
+              "DocumentMoniker": "D:\\CMOO-2KYRS\\CMOO-2KYRS\\LABA6\\WpfApp1\\AddWindow.xaml.cs",
+              "RelativeDocumentMoniker": "AddWindow.xaml.cs",
+              "ToolTip": "D:\\CMOO-2KYRS\\CMOO-2KYRS\\LABA6\\WpfApp1\\AddWindow.xaml.cs",
+              "RelativeToolTip": "AddWindow.xaml.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAAB8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T12:46:50.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AddWindow.xaml",
+              "DocumentMoniker": "D:\\CMOO-2KYRS\\CMOO-2KYRS\\LABA6\\WpfApp1\\AddWindow.xaml",
+              "RelativeDocumentMoniker": "AddWindow.xaml",
+              "ToolTip": "D:\\CMOO-2KYRS\\CMOO-2KYRS\\LABA6\\WpfApp1\\AddWindow.xaml",
+              "RelativeToolTip": "AddWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-24T12:08:13.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\CMOO-2KYRS\\CMOO-2KYRS\\LABA6\\WpfApp1\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "D:\\CMOO-2KYRS\\CMOO-2KYRS\\LABA6\\WpfApp1\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-19T22:52:22.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\CMOO-2KYRS\\CMOO-2KYRS\\LABA6\\WpfApp1\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "D:\\CMOO-2KYRS\\CMOO-2KYRS\\LABA6\\WpfApp1\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T22:52:18.52Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
