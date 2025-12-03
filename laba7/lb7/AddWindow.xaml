@@ -1,0 +1,36 @@
+﻿<Window x:Class="lb7.AddWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:lb7"
+        mc:Ignorable="d"
+        Title="AddWindow" Height="450" Width="800">
+    <Grid Button.Click ="OnAnyControlClick">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="6*"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+        <StackPanel Grid.Row="0" Background="LightGoldenrodYellow" Orientation="Vertical" VerticalAlignment="Center">
+            <TextBlock Grid.Row="0" Text="Форма додавання анкети" FontWeight="Bold" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="16" Background="PapayaWhip"/>
+        </StackPanel>
+        <StackPanel Grid.Row="1" Background="AliceBlue" Orientation="Vertical">
+            <Label Content="Ім'я"/>
+            <TextBox Text="{Binding name,UpdateSourceTrigger=PropertyChanged}" PreviewTextInput="Name_PreviewTextInput" Name="nameBox" ToolTip="ТІЛЬКИ БУКВИ" />
+            <Label Content="Фамілія"/>
+            <TextBox Text="{Binding surname,UpdateSourceTrigger=PropertyChanged}" PreviewTextInput="Name_PreviewTextInput" Name="surnameBox" ToolTip="ТІЛЬКИ БУКВИ" />
+            <Label Content="Вік (від 16 до 100)"/>
+            <TextBox Text="{Binding age,UpdateSourceTrigger=PropertyChanged}" PreviewTextInput="Number_PreviewTextInput" Name="AgeBoxx" ToolTip="ТІЛЬКИ ЦИФРИ (ВІД 16 ДО 100)" />
+            <Label Content="Стать"/>
+            <StackPanel>
+                <RadioButton x:Name="Male" GroupName="Sex" Content="Чоловік" IsChecked="{Binding isMale, Mode=TwoWay ,UpdateSourceTrigger=PropertyChanged}" Margin="0,2"/>
+                <RadioButton x:Name="Female" GroupName="Sex" Content="Жінка" Margin="0,2" IsChecked="{Binding isFemale, Mode=TwoWay ,UpdateSourceTrigger=PropertyChanged}"/>
+            </StackPanel>
+            <Button Content="Submit" Command="{Binding SubmitCommand}" CommandParameter="{Binding RelativeSource={RelativeSource AncestorType=Window}}" HorizontalAlignment="Center" Width="80" Margin="0,10"/>
+
+
+        </StackPanel>
+
+    </Grid>
+</Window>
