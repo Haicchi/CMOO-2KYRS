@@ -23,10 +23,10 @@
                 
                 <Button Content="ДОДАТИ ЗАЯВКУ" Background="BlanchedAlmond" Command="{Binding AddButtonCommand}" />
                 <Button Content="ЗМІНИТИ ІНФОРМАЦІЮ" Background="BlanchedAlmond" Command="{Binding ChangeButtonCommand}" CommandParameter="{Binding ElementName=StudentsList, Path=SelectedItems}" />
-                <Button Content="ВИДАЛИТИ ЗАЯВКУ" Background="BlanchedAlmond" Command="{Binding DeleteButtonCommand}" CommandParameter="{Binding ElementName=StudentsList, Path=SelectedItems}" />
+                <Button Content="ВИДАЛИТИ ЗАЯВКУ" ToolTip="ДЛЯ ВИДАЛЕННЯ ДЕКІЛЬКОХ АНКЕТ ЗАЖМІТЬ CTRL ТА ВИБЕРІТЬ ДЕКІЛЬКА АНКЕТ" Background="BlanchedAlmond" Command="{Binding DeleteButtonCommand}" CommandParameter="{Binding ElementName=StudentsList, Path=SelectedItems}" />
             </StackPanel>
         </Border>
-        <Label  Grid.Column="1" Content="ЗАЯВКИ" FontSize="16" HorizontalContentAlignment="Center" HorizontalAlignment="Center" Grid.Row="0"/>
+        <Label  Grid.Column="1" Content="АНКЕТИ" FontSize="16" HorizontalContentAlignment="Center" HorizontalAlignment="Center" Grid.Row="0"/>
         <Label  Name="NOELEM" Grid.Column="1" Content="ЗАЯВКИ У ФАЙЛІ ВІДСУТНІ ДОДАЙТЕ НОВІ" FontSize="16" HorizontalContentAlignment="Center" HorizontalAlignment="Center" Grid.Row="1" Visibility="Hidden" />
         <ListBox x:Name="StudentsList" Grid.Column="1" Grid.Row="1" SelectedItem="{Binding currentStudent, Mode=TwoWay}" AlternationCount="2" SelectionMode="Extended" VerticalAlignment="Stretch" HorizontalAlignment="Stretch"  ScrollViewer.HorizontalScrollBarVisibility="Disabled" ScrollViewer.VerticalScrollBarVisibility="Auto" ItemsSource="{Binding Students}" >
             <ListBox.ItemContainerStyle>
